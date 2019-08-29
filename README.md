@@ -48,7 +48,7 @@ hashcat
 Install and Run in Linux
 
 sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
-git clone https://github.com/insanity-security-team/IST
+git clone https://github.com/BetaCyberSec/ISTScript.git
 cd IST
 python IST.py
 
