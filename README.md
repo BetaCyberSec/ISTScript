@@ -1,6 +1,5 @@
 About IST 2.0
-
-Information Gathering tool. IST can work on most operating systems if they have and support the requirements, Kali Linux is the preferred operating system.
+Linux Multi tool. IST can work on most operating systems if they have and support the requirements, Kali Linux is the preferred operating system.
 
 Features
 
